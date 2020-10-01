@@ -9,7 +9,7 @@ training a neural network on over 4500 games to estimate the total points scored
       - an MAE of 10.69, <b> yet to determine the percentage the model was able to correctly predict O/U outcomes </b> 
     
     
-progessing towards training a similar neural network on a similar number of games to predict if the spread is covered (both winner and cover)
+progressing towards training a neural network on a similar number of games to predict if the spread is covered (both winner and cover)
 
 
 ## Tools Used:

@@ -15,7 +15,7 @@ progressing towards training a neural network on a similar number of games to pr
 
 ## Tools Used:
 
-### Data Mining/Cleaning/Processing:
+### Data Cleaning/Mining/Processing:
 - Pandas
 - NumPy
 - BeautifulSoup
